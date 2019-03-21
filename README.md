@@ -15,7 +15,7 @@ Fast-growing vehicles and limited parking lots have caused Open Parking and Came
 * Microsoft Excel
 
 ## Conclusion
-* Achieved an accuracy of 76% using a refined neural network, random forest and decision tree models on 1.7M traffic violations and predicted violation type (i.e, parking, camera, meter, plate, no standing, other). 
+* Achieved an accuracy of 76% using a refined neural network, random forest and decision tree models on 23.6M traffic violations and predicted violation type (i.e, parking, camera, meter, plate, no standing, other). 
 * Proposed suggestions to reduce traffic violations based on results of statistical analysis of factors causing parking and camera violations.
  
 ## Author
